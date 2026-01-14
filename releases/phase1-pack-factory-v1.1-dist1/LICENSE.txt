@@ -1,0 +1,110 @@
+Observer Evaluation License v1.0 (OEL-1.0)
+============================================
+
+Version: 1.0
+Effective Date: 2026-01-13
+Status: ACTIVE / IMMUTABLE
+
+---
+
+GRANT
+
+Subject to the terms of this license, the licensor grants you a non-exclusive,
+royalty-free, worldwide license to use, copy, and distribute the licensed
+artifacts solely for EVALUATION PURPOSES.
+
+---
+
+EVALUATION ONLY
+
+This license permits evaluation, research, academic study, and internal
+assessment. It does NOT permit:
+
+- Production deployment
+- Commercial use
+- Integration into systems that make decisions
+- Use as authoritative source for any determination
+
+---
+
+OBSERVER-ONLY POSTURE
+
+Licensed artifacts operate under observer-only posture:
+
+- Outputs are NON-AUTHORITATIVE
+- Outputs confer NO AUTHORITY to act
+- Outputs make NO DETERMINATIONS
+- Outputs provide NO RECOMMENDATIONS
+
+---
+
+NON-CLAIMS
+
+The licensed artifacts explicitly DO NOT:
+
+- Make safety determinations
+- Make threat determinations
+- Make compliance determinations
+- Make medical diagnoses
+- Provide financial advice
+- Provide legal advice
+- Verify identity
+- Assess risk
+
+---
+
+DOCTRINE HASH BINDING (INTEGRITY REQUIREMENT)
+
+This license incorporates the document OBSERVER_DOCTRINE.md by cryptographic
+reference. The governing doctrine defines the observer-only posture that all
+licensed artifacts must comply with.
+
+BOUND_DOCTRINE_DOCUMENT: OBSERVER_DOCTRINE.md
+BOUND_DOCTRINE_ALGORITHM: BLAKE2b-256
+BOUND_DOCTRINE_HASH: e59dc19d68c2f73e83f734cb521047cff128015e913fe040b571c515974b0a03
+
+Any copy, distribution, or use of artifacts under this license MUST retain:
+
+1. The bound hash above
+2. Access to the exact matching contents of OBSERVER_DOCTRINE.md
+
+If the doctrine changes, a new license version MUST be published with a new
+bound hash.
+
+---
+
+TERMINATION
+
+This license terminates automatically if you:
+
+- Use licensed artifacts for production or commercial purposes
+- Claim outputs as authoritative
+- Remove or modify the doctrine binding
+- Violate any term of this license
+
+---
+
+NO WARRANTY
+
+Licensed artifacts are provided "AS IS" without warranty of any kind. The
+licensor disclaims all warranties, express or implied.
+
+---
+
+GOVERNING DOCUMENTS
+
+This license is governed by:
+
+- OBSERVER_DOCTRINE.md (bound by hash above)
+- LICENSE_HASH_BINDING.md (binding procedure)
+- LICENSE_LABELS.md (canonical registry)
+
+---
+
+These declarations constrain representation and distribution only; they do not
+enable system action.
+
+---
+
+Copyright (c) 2026 ZOA Industries
+License: OEL-1.0 (Observer Evaluation License)
